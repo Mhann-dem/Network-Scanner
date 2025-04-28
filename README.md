@@ -100,6 +100,3 @@ Summary:
 - Basic networking utilities: `ping`
 - Optional: `nmap` or `nc` for port scanning
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
